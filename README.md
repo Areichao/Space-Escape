@@ -3,10 +3,10 @@ Space themed puzzle game
 
 ***
 
-Created using:
+Created using: \
 -> Adobe Photoshop \
 -> Unity \
--> JummBox \
+-> JummBox 
 
 ***
 
