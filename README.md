@@ -4,9 +4,9 @@ Space themed puzzle game
 ***
 
 Created using:
--> Adobe Photoshop
--> Unity 
--> JummBox
+-> Adobe Photoshop \
+-> Unity \
+-> JummBox \
 
 ***
 
