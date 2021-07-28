@@ -1,6 +1,7 @@
 # Space-Escape
 Space themed puzzle game \
-Submitted to: Frosthack 2021
+Submitted to: Frosthack 2021 \
+https://devpost.com/software/space-escape-b6018q
 
 ***
 
